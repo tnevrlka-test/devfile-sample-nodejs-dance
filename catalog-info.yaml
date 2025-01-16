@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: devfile-sample-nodejs-dance
+  annotations:
+    github.com/project-slug: tnevrlka-test/devfile-sample-nodejs-dance
+spec:
+  type: other
+  lifecycle: unknown
+  owner: tnevrlka
